@@ -14,3 +14,4 @@ Benefits This project offers:
 **• Centralized Information:** Provides a centralized view for monitoring hospital activities. • Data-Driven Decision Making: Assists management teams in making informed, data-driven decisions.
 
 The Cookie Analysis Power BI Dashboard project is aimed at which Cookie type has more Sales in efficiently managing and analyzing critical data for better decision-making processes.
+ ![Cookie_Analysis_Dashboard](https://github.com/user-attachments/assets/08f28bc9-e61c-46da-a584-ca485b44571d)
